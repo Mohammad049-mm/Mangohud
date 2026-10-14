@@ -1,6 +1,6 @@
 ---
 
-## 📊 4. MangoHud: Performance-Overlay für Spiele einrichten
+## 📊 MangoHud: Performance-Overlay für Spiele einrichten
 
 MangoHud ist ein konfigurierbares Overlay für Linux, das FPS, Temperaturen, CPU/GPU-Auslastung und mehr direkt im Spiel anzeigt.
 
